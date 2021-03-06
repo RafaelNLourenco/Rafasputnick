@@ -20,8 +20,13 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 [2]: https://www.linkedin.com/in/heinz-martin/
 
 
-## Não esqueça de contar sobre o seu código para o pato, creio que ele irá te ajudar a resolver o problema. :wink: :smile:
+# Não esqueça de contar sobre o seu código para o pato, creio que ele irá te ajudar a resolver o problema. :wink: :smile:
 
 <img src="https://i.imgur.com/FjdtGRx.png" width="800px">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafasputnick)](https://github.com/anuraghazra/github-readme-stats)
+# Minhas estatísticas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafasputnick&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
+
