@@ -5,7 +5,7 @@
 
 <img src="https://i.imgur.com/FjdtGRx.png" width="700px">
 
-# Minhas estatísticas
+#### Minhas estatísticas
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafasputnick&hide=stars,prs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
