@@ -1,4 +1,4 @@
-## Olá programador!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Olá programador!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 ### Seja muito bem-vindo ao meu perfil no github, você também pode me encontrar no [![Linkedin](https://user-images.githubusercontent.com/52457167/110225534-17ed0b00-7ec5-11eb-89c2-4aa4c8cd4c4a.png)](https://www.linkedin.com/in/rafaelnlourenco/)
 
 ## Sobre mim
