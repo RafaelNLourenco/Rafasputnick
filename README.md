@@ -3,8 +3,8 @@
 
 ## Sobre mim
 
-- Quando eu era criança eu sonhava em ser inventor então me tornei um PROGRAMADOR, amo criar soluções e resolver problemas de diversos tipos.
-- Eu conheci a programação com 16 anos e até hoje me sinto entusiasmado em conhecer coisas novas e resolver problemas que nunca enfrentei.
+- Quando eu era criança sonhava em ser inventor então me tornei um PROGRAMADOR, amo criar soluções e resolver problemas de diversos tipos.
+- Eu conheci a programação com 16 anos e até hoje me sinto entusiasmado em conhecer tecnologias novas e resolver problemas que nunca enfrentei.
 
 #### Ah! Não esqueça de explicar seu código ao pato, creio que ele irá te ajudar a resolver o problema :wink: :smile:
 
