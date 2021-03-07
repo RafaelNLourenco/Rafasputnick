@@ -7,7 +7,7 @@
 
 ### Minhas estatísticas
 
-[![Anurag's GitHub stats](https://github-readme-stats.vffa400ercel.app/api?username=Rafasputnick&hide=stars,prs&show_icons=true&count_private=true&bg_color=ffa400,74767a&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vffa400ercel.app/api?username=Rafasputnick&hide=stars,prs&show_icons=true&count_private=true&bg_color=ffa400,FFFF00&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
