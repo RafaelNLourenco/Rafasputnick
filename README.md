@@ -3,7 +3,7 @@
 
 #### Ah! Não esqueça de contar sobre o seu código para o pato, creio que ele irá te ajudar a resolver o problema :wink: :smile:
 
-<img src="https://i.imgur.com/FjdtGRx.png" width="700px">
+<img align=center src="https://i.imgur.com/FjdtGRx.png" width="700px">
 
 ### Minhas estatísticas
 
