@@ -13,9 +13,3 @@
 ## Minhas estatísticas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafasputnick&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars,prs)
-
-
-![Snake animation](https://github.com/Rafasputnick/Rafasputnick/blob/output/github-contribution-grid-snake.svg)
-
-
-
