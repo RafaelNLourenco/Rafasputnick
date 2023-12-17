@@ -1,15 +1,17 @@
-## Olá programador!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
-### Seja muito bem-vindo ao meu perfil no github, você também pode me encontrar no [![Linkedin](https://user-images.githubusercontent.com/52457167/110225534-17ed0b00-7ec5-11eb-89c2-4aa4c8cd4c4a.png)](https://www.linkedin.com/in/rafaelnlourenco/)
+# Welcome to My Professional Portfolio! 👋
 
-## Sobre mim
+## Introduction
 
-- Quando eu era criança sonhava em ser inventor então me tornei um PROGRAMADOR, amo criar soluções e resolver problemas de diversos tipos.
-- Eu conheci a programação com 16 anos e até hoje me sinto entusiasmado em conhecer tecnologias novas e resolver problemas que nunca enfrentei.
+Greetings, fellow developers! I'm Rafael, a dedicated professional in the field of programming. With a childhood aspiration to be an inventor, I've channeled that passion into programming as a means to create innovative solutions and tackle a diverse spectrum of challenges.
 
-#### Ah! Não esqueça de explicar seu código ao pato, creio que ele irá te ajudar a resolver o problema :wink: :smile:
+Commencing my coding journey at the age of 16, I've maintained a steadfast enthusiasm for exploring emerging technologies and solving complex problems.
 
-<img src="https://i.imgur.com/FjdtGRx.png" width="700px">
+## Professional Statistics
 
-## Minhas estatísticas
+Delve into my GitHub statistics:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafasputnick&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars,prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafasputnick&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars,prs)
+
+## Connect with Me
+
+I invite you to connect with me on [LinkedIn](https://www.linkedin.com/in/rafaelnlourenco/). I am actively seeking collaborations and expanding my network within the developer community. Let's embark on the journey of building remarkable solutions together!
